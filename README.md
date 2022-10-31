@@ -1,14 +1,15 @@
 # Run Buddy
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
-* HTML
-* CSS
+* HTML 
+* CSS (including flexbox, media queries, and pseudo classes)
 
-## Website
-https://lernantino.github.io/run-buddy/
+## Website Screenshot
+![Screenshot of Horiseon landing page](Runbuddy.png)
+
 
 ## Contribution
 Made with ❤️ by Phuong Hoang
